@@ -23,3 +23,15 @@ p {
     width: 100%;
   }
 }
+footer {
+    background-color: #1E1E1E;
+}
+footer p {
+    text-align: center;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
